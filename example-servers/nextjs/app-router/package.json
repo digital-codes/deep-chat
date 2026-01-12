@@ -10,7 +10,7 @@
   "dependencies": {
     "deep-chat-react": "2.4.1",
     "eventsource-parser": "^1.1.2",
-    "next": "^14.2.14",
+    "next": "^14.2.35",
     "react": "^18",
     "react-dom": "^18"
   },
